@@ -6,8 +6,7 @@ let arr = [];
        arr.push(b)
     }
      arr.reverse();
-	let str = arr.join()
+	let str = arr.join("")
     return str;
 }
-
 window.decimalToBinary = decimalToBinary;
